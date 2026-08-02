@@ -1,4 +1,7 @@
-## Biblioteca Digital em Java (Armazenado na RAM)
+## Biblioteca digital em Java
+
+### Sobre o Projeto:
+Projeto feito para pratica Programação Orientada a Objetos **(POO)**
 
 ```text
 ─── src/
