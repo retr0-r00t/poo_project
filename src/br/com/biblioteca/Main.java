@@ -120,7 +120,6 @@ public class Main {
                     }
                     break;
                 case 5:
-                    // Lógica para devolver
                     System.out.println("\n---DEVOLVER ITEM---");
 
                     System.out.println("Digite o ID do Item que vai ser devolvido: ");
@@ -150,16 +149,6 @@ public class Main {
                     } else {
                         for(ItemBiblioteca item : acervos){
                             System.out.println(item);
-                        }
-                    }
-                    break;
-                case 7:
-                    System.out.println("Debugador de usuários");
-                    if (usuarios.isEmpty()){
-                        System.out.println("Nenhum Usuario encontrado!");
-                    } else {
-                        for(User u : usuarios){
-                            System.out.println(u.hashCode());
                         }
                     }
                     break;
