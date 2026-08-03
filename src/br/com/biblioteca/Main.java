@@ -65,7 +65,7 @@ public class Main {
 
                     Revista novaRevista = new Revista(idRevista, nomeRevista, numeroEdicao);
                     acervos.add(novaRevista);
-                    System.out.println("Revista adicionada com sucesso!");
+                    System.out.println("Revista adicionada com sucesso! ");
                     break;
                 case 3:
                     System.out.println("\n---CADASTRO DE USUÁRIOS---");
